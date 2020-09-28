@@ -1,0 +1,34 @@
+{
+    "translation": {
+        "af": {
+            "name": "Afrikaans",
+            "nativeName": "Afrikaans",
+            "dir": "ltr"
+        },
+        "ar": {
+            "name": "Arabic",
+            "nativeName": "العربية",
+            "dir": "rtl"
+        },
+        "bg": {
+            "name": "Bulgarian",
+            "nativeName": "Български",
+            "dir": "ltr"
+        },
+        "bn": {
+            "name": "Bangla",
+            "nativeName": "বাংলা",
+            "dir": "ltr"
+        },
+        "bs": {
+            "name": "Bosnian",
+            "nativeName": "bosanski (latinica)",
+            "dir": "ltr"
+        },
+        "ca": {
+            "name": "Catalan",
+            "nativeName": "Català",
+            "dir": "ltr"
+        }
+    }
+}
